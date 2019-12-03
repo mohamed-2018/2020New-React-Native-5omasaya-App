@@ -1,0 +1,6 @@
+npm install --save firebase
+npm install native-base --save
+react-native link
+npm i react-native-router-flux --save
+yarn add react-native-image-picker
+react-native link react-native-image-picker
